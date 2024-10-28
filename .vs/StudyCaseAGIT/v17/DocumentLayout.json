@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\views\\productionplans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\views\\productionplans\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\views\\productionplans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\views\\productionplans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\models\\productionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\models\\productionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\controllers\\productionplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\controllers\\productionplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\services\\productionbalancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\services\\productionbalancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\views\\productionplans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\views\\productionplans\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\models\\productionadjustment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\models\\productionadjustment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\models\\productiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\models\\productiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Migrations\\20241028072701_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudyCaseAGIT\\Migrations\\20241028072701_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|d:\\task 2 agit\\studycaseagit\\studycaseagit\\studycaseagit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C7AFFC2-2A1C-4D06-9CB7-637889A02AA8}|StudyCaseAGIT\\StudyCaseAGIT.csproj|solutionrelative:studycaseagit\\studycaseagit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\ProductionPlans\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Views\\ProductionPlans\\Create.cshtml",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\ProductionPlans\\Create.cshtml",
+              "RelativeToolTip": "StudyCaseAGIT\\Views\\ProductionPlans\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:53:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\ProductionPlans\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Views\\ProductionPlans\\Index.cshtml",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\ProductionPlans\\Index.cshtml",
+              "RelativeToolTip": "StudyCaseAGIT\\Views\\ProductionPlans\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:58:31.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductionPlan.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ProductionPlan.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Models\\ProductionPlan.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ProductionPlan.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Models\\ProductionPlan.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:24:30.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductionPlansController.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Controllers\\ProductionPlansController.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Controllers\\ProductionPlansController.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Controllers\\ProductionPlansController.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Controllers\\ProductionPlansController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:46:24.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\ProductionPlans\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Views\\ProductionPlans\\Details.cshtml",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\ProductionPlans\\Details.cshtml",
+              "RelativeToolTip": "StudyCaseAGIT\\Views\\ProductionPlans\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T05:09:16.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionBalancer.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Services\\ProductionBalancer.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Services\\ProductionBalancer.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Services\\ProductionBalancer.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Services\\ProductionBalancer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:49:22.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudyCaseAGIT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:53:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductionAdjustment.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ProductionAdjustment.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Models\\ProductionAdjustment.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ProductionAdjustment.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Models\\ProductionAdjustment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:44:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:29:52.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductionDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ProductionDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Models\\ProductionDetailsViewModel.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Models\\ProductionDetailsViewModel.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Models\\ProductionDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:08:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241028072701_InitialCreate.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Migrations\\20241028072701_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Migrations\\20241028072701_InitialCreate.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Migrations\\20241028072701_InitialCreate.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Migrations\\20241028072701_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:27:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\appsettings.json",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\appsettings.json",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\appsettings.json",
+              "RelativeToolTip": "StudyCaseAGIT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:51:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Program.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Program.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Program.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:12:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudyCaseAGIT\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:18:35.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudyCaseAGIT.csproj",
+              "DocumentMoniker": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\StudyCaseAGIT.csproj",
+              "RelativeDocumentMoniker": "StudyCaseAGIT\\StudyCaseAGIT.csproj",
+              "ToolTip": "D:\\TASK 2 AGIT\\StudyCaseAGIT\\StudyCaseAGIT\\StudyCaseAGIT.csproj",
+              "RelativeToolTip": "StudyCaseAGIT\\StudyCaseAGIT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T03:48:51.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

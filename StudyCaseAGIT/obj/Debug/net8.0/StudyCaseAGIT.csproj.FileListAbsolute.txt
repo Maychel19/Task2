@@ -1,0 +1,516 @@
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.csproj.AssemblyReference.cache
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.AssemblyInfoInputs.cache
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.AssemblyInfo.cs
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.csproj.CoreCompileInputs.cache
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.MvcApplicationPartsAssemblyInfo.cache
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.RazorAssemblyInfo.cache
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.RazorAssemblyInfo.cs
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\appsettings.Development.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\appsettings.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.staticwebassets.runtime.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.exe
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.deps.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.runtimeconfig.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.pdb
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Azure.Core.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Azure.Identity.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Humanizer.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.CodeDom.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets.build.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets.development.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.StudyCaseAGIT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.build.StudyCaseAGIT.props
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudyCaseAGIT.props
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudyCaseAGIT.props
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\scopedcss\bundle\StudyCaseAGIT.styles.css
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\scopedcss\projectbundle\StudyCaseAGIT.bundle.scp.css
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCas.5BAA2102.Up2Date
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\refint\StudyCaseAGIT.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.pdb
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.genruntimeconfig.cache
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\ref\StudyCaseAGIT.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Build.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Common.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\appsettings.Development.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\appsettings.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.staticwebassets.runtime.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.exe
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.deps.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.runtimeconfig.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\StudyCaseAGIT.pdb
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Azure.Core.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Azure.Identity.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Humanizer.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Build.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Common.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.CodeDom.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.csproj.AssemblyReference.cache
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.AssemblyInfoInputs.cache
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.AssemblyInfo.cs
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.csproj.CoreCompileInputs.cache
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.MvcApplicationPartsAssemblyInfo.cache
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.RazorAssemblyInfo.cache
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.RazorAssemblyInfo.cs
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets.build.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets.development.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.StudyCaseAGIT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.build.StudyCaseAGIT.props
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudyCaseAGIT.props
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudyCaseAGIT.props
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\scopedcss\bundle\StudyCaseAGIT.styles.css
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\scopedcss\projectbundle\StudyCaseAGIT.bundle.scp.css
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCas.5BAA2102.Up2Date
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\refint\StudyCaseAGIT.dll
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.pdb
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\StudyCaseAGIT.genruntimeconfig.cache
+D:\TASK 2 AGIT\StudyCaseAGIT\StudyCaseAGIT\obj\Debug\net8.0\ref\StudyCaseAGIT.dll

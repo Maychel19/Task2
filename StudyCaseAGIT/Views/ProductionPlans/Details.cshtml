@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Production Plan Details";
+
+    // Getting data from ViewBag
+    var productionPlan = ViewBag.ProductionPlan as StudyCaseAGIT.Models.ProductionPlan;
+    var adjustPlan = ViewBag.AdjustPlan as StudyCaseAGIT.Models.ProductionAdjustment;
+}
+
+<h1>Production Plan Details</h1>
+
+<div>
+    <h4>Production Plan Comparison</h4>
+    <hr />
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                <th>Sunday</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Original Plan</td>
+                <td>@(productionPlan != null ? productionPlan.Monday.ToString() : "N/A")</td>
+                <td>@(productionPlan != null ? productionPlan.Tuesday.ToString() : "N/A")</td>
+                <td>@(productionPlan != null ? productionPlan.Wednesday.ToString() : "N/A")</td>
+                <td>@(productionPlan != null ? productionPlan.Thursday.ToString() : "N/A")</td>
+                <td>@(productionPlan != null ? productionPlan.Friday.ToString() : "N/A")</td>
+                <td>@(productionPlan != null ? productionPlan.Saturday.ToString() : "N/A")</td>
+                <td>@(productionPlan != null ? productionPlan.Sunday.ToString() : "N/A")</td>
+            </tr>
+            <tr>
+                <td>Adjusted Plan</td>
+                <td>@(adjustPlan != null ? adjustPlan.Monday.ToString() : "N/A")</td>
+                <td>@(adjustPlan != null ? adjustPlan.Tuesday.ToString() : "N/A")</td>
+                <td>@(adjustPlan != null ? adjustPlan.Wednesday.ToString() : "N/A")</td>
+                <td>@(adjustPlan != null ? adjustPlan.Thursday.ToString() : "N/A")</td>
+                <td>@(adjustPlan != null ? adjustPlan.Friday.ToString() : "N/A")</td>
+                <td>@(adjustPlan != null ? adjustPlan.Saturday.ToString() : "N/A")</td>
+                <td>@(adjustPlan != null ? adjustPlan.Sunday.ToString() : "N/A")</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <h4>Details</h4>
+    <hr />
+    <table class="table table-bordered">
+        <tbody>
+            <tr>
+                <td>Plan Date</td>
+                <td>@(productionPlan != null ? productionPlan.PlanDate.ToString("d") : "N/A")</td>
+            </tr>
+            <tr>
+                <td>Adjustment Date</td>
+                <td>@(adjustPlan != null ? adjustPlan.AdjustmentDate.ToString("d") : "N/A")</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div>
+  @*    <a asp-action="Edit" asp-route-id="@productionPlan?.Id" class="btn btn-warning">Edit</a> *@
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
+</div>

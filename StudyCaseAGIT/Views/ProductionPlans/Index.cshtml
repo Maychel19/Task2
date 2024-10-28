@@ -1,0 +1,52 @@
+﻿@model IEnumerable<StudyCaseAGIT.Models.ProductionPlan>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>@Html.DisplayNameFor(model => model.First().Monday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Tuesday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Wednesday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Thursday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Friday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Saturday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Sunday)</th>
+            <th>@Html.DisplayNameFor(model => model.First().PlanDate)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 1;
+        }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@Html.DisplayFor(modelItem => item.Monday)</td>
+                <td>@Html.DisplayFor(modelItem => item.Tuesday)</td>
+                <td>@Html.DisplayFor(modelItem => item.Wednesday)</td>
+                <td>@Html.DisplayFor(modelItem => item.Thursday)</td>
+                <td>@Html.DisplayFor(modelItem => item.Friday)</td>
+                <td>@Html.DisplayFor(modelItem => item.Saturday)</td>
+                <td>@Html.DisplayFor(modelItem => item.Sunday)</td>
+                <td>@Html.DisplayFor(modelItem => item.PlanDate)</td>
+                <td>
+                    @* <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | *@
+                    <a asp-action="Details" class="btn btn-primary" asp-route-id="@item.Id">Details</a>
+                    @* <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> *@
+                </td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>
